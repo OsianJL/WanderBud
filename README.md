@@ -8,6 +8,12 @@ Welcome to WanderBud, your go-to platform for connecting with like-minded indivi
 - **Event Discovery:** Find nearby events based on your preferences and current location.
 - **Intuitive Interface:** Modern and user-friendly design developed with React, Flask, Material UI, Bootstrap.
 
+## Captures
+<div>
+<img src="https://res.cloudinary.com/dkfphx3dm/image/upload/v1716130012/WanderBudPic001_front_sxhjcs.png" width="270" height="200"/>
+<img src="https://res.cloudinary.com/dkfphx3dm/image/upload/v1716130012/WanderBudPic002_profile_ksu94t.png" width="270" height="200"/>
+<img src="https://res.cloudinary.com/dkfphx3dm/image/upload/v1716130012/WanderBud003_chat_d4skx6.png" width="270" height="200"/>
+</div>
 
 ## Technologies Used
 
